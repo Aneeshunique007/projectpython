@@ -10,7 +10,6 @@ class Admin:
         self.password = new_password
         print("Password changed successfully!")
 
-# Creating an admin object
 admin1 = Admin("admin123", "securepass")
 
 # Displaying admin info
